@@ -2,7 +2,6 @@
 
 A modern, efficient web image scraping application with a sleek GUI interface. This application allows you to download images from any website with advanced features like dynamic content loading, multi-threaded downloads, and smart image filtering.
 
-**Powered by ProjectsHUB - Advanced Development Solutions**
 
 ## Features
 
